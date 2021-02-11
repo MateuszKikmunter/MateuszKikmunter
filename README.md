@@ -1,7 +1,7 @@
 ### Hi there, I'm [Mateusz (Matt) Kikmunter](https://www.linkedin.com/in/mateusz-kikmunter-783473ab/) 👋
 
-- 🧑‍💻 I'm working at [Allianz Ireland](https://www.allianz.ie/)
-- 🔭 I’m currently working on Angular apps and .NET Core microservices
+- 🧑‍💻 I work at [Allianz Ireland](https://www.allianz.ie/)
+- 🔭 I’m building Angular apps and .NET Core microservices
 - 👯 I want to collaborate on Angular, NodeJS and NestJS projects
 - 💪 My goal is to use Angular, NodeJS and NestJS in my daily work
 - 💬 Ask me about Angular, C#, TypeScript or JavaScript
