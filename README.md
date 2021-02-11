@@ -20,4 +20,3 @@
 [![NDBX](https://img.shields.io/badge/NDBX-NDBX-yellowgreen)](https://aposin.github.io/ng-aquila/welcome)
 [![ng-bootstrap](https://img.shields.io/badge/ng--bootstrap-ngb-blue)](https://ng-bootstrap.github.io/#/home)
 [![.NET](https://img.shields.io/badge/.NET-.NET-purple)](https://dotnet.microsoft.com/)
-[![.NET Core](https://img.shields.io/badge/.NET%20Core-.NET%20Core-purple)](https://dotnet.microsoft.com/)
