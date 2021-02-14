@@ -18,5 +18,5 @@
 ##### Frameworks and libraries I use
 [![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=dd0132)](https://angular.io/)
 [![NDBX](https://img.shields.io/badge/NDBX-NDBX-yellowgreen)](https://aposin.github.io/ng-aquila/welcome)
-[![ng-bootstrap](https://img.shields.io/badge/ng--bootstrap-ngb-blue)](https://ng-bootstrap.github.io/#/home)
-[![.NET](https://img.shields.io/badge/.NET-.NET-purple)](https://dotnet.microsoft.com/)
+[![](https://img.shields.io/badge/-NgBootstrap-blue?style=flat&logo=bootstrap&logoColor=white)](https://ng-bootstrap.github.io/#/home)
+[![](https://img.shields.io/badge/-dotnet-purple?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)
