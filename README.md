@@ -20,3 +20,4 @@
 [![NDBX](https://img.shields.io/badge/NDBX-NDBX-yellowgreen)](https://aposin.github.io/ng-aquila/welcome)
 [![](https://img.shields.io/badge/-NgBootstrap-blue?style=flat&logo=bootstrap&logoColor=white)](https://ng-bootstrap.github.io/#/home)
 [![](https://img.shields.io/badge/-dotnet-purple?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)
+[![](https://img.shields.io/badge/-rxjs-pink?style=flat)](https://rxjs.dev/guide/overview)
