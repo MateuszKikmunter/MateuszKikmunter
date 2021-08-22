@@ -11,9 +11,9 @@
 
 ##### Languages I use in my day to day work
 
-![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript&logoColor=6f97cc)
-![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript&logoColor=6f97cc)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ##### Frameworks and libraries I use
 [![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=dd0132)](https://angular.io/)
