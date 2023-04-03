@@ -3,6 +3,7 @@
 - 🧑‍💻 I work at [Genesys](https://www.genesys.com/)  
 - 🔭 I’m building Angular apps, .NET and Node.js based APIs
 - 📖 I'm currently learning AWS
+- ⚙️ I'm one of the top mainters of [lotr-api](https://github.com/gitfrosh/lotr-api)
 - 👯 I want to collaborate on Angular, Node.js and NestJS projects
 - 💪 My goal is to use Angular, Node.js and NestJS in my daily work
 - 💬 Ask me about Angular, C#, Node.js, TypeScript
